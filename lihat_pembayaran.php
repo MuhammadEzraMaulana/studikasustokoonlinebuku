@@ -84,8 +84,8 @@
   <body>
 
 	<!-- navbar --> 
-	<nav class="navbar navbar-default" style="background: light blue;">
-		<div class="container" style="background: light blue;" >
+	<nav class="navbar navbar-default" style="background: lightblue;">
+		<div class="container" style="background: lightblue;" >
 			<ul class="nav navbar-nav">
 				<!-- Jika Sudah Login-->
 				<?php if (isset($_SESSION['pelanggan'])): ?>
