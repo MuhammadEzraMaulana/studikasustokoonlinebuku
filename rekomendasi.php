@@ -173,10 +173,9 @@ body {font-family: Verdana,sans-serif;}
 			<form action="pencarian.php" method="get" class="navbar-form navbar-right">
 				<input type="text" name="keyword" class="form-control" placeholder="Pencarian">
 				<button class="btn btn-primary">Cari</button>
-			</form>
-
+		     </form>
 		</div>
-	</nav>
+	   </nav>
 
 <!-- Awal dari Slide Show -->
  <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -213,7 +212,6 @@ body {font-family: Verdana,sans-serif;}
             <a href="index.php" class="thumbnail">
               <img src="img/tb1.jpg">
               <h5>Mary Higgins C : Daddy Little Girl</h5>
-
             </a>
           </div>
 
@@ -258,12 +256,6 @@ body {font-family: Verdana,sans-serif;}
                <h5>And Then There Were None</h5>
             </a>
           </div>  
-          <div class="col-sm-3 text-center">
-            <a href="index.php" class="thumbnail">
-              <img src="img/tb9.jpg">
-               <h5>SEBUAH SENI UNTUK BERSIKAP BODO AMAT</h5>
-          </a>
-        </div>
       </div>
     </section>
     <!-- End of New Book -->
