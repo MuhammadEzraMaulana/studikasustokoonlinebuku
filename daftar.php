@@ -59,9 +59,8 @@ session_start();
 
 
 	<!-- navbar -->
-	<nav class="navbar navbar-default"  style="background: black;">
-		
-		<div class="container" style="background: black;">
+	<nav class="navbar navbar-default"  style="background: lightblue;">
+		<div class="container" style="background: lightblue;">
 			<ul class="nav navbar-nav" >
 				<!-- Jika Sudah Login-->
 				<?php if (isset($_SESSION['pelanggan'])): ?>
